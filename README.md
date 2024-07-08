@@ -1,2 +1,2 @@
 # TankStar
-This is a tank game made by Java and processing library
+This is a tank game made by Java and processing library. Use left and right keys to move the tank, use up and down keys to move the turret, use W and S keys to increase/decrease the turret power, press spacebar to shoot a projectile, and once shot turn switches. For strategic items, press f to buy extra fuel(cost: 10), press x to buy a large projectile(cost: 20), press r to buy repair kit(cost: 20), press p to buy extra parachutes(cost: 15)
